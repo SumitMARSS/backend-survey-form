@@ -1,5 +1,5 @@
 import express from "express";
-import { high_school, bachelors, masters } from "../controllers/health.js";
+import { high_school, bachelors, masters } from "../controllers/education.js";
 
 const router = express.Router();
 
